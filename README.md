@@ -179,3 +179,4 @@ Project Link: [https://github.com/Bloft-Design-Lab/Bad-Ass-Pellet-Extruder](http
 [Product Name Screen Shot]: https://github.com/Bloft-Design-Lab/Bad-Ass-Pellet-Extruder/images/Bad-Ass-Pellet-Extruder.jpg
                             https://hackaday.io/project/187059-bloft-mk2-3d-printer-for-plastic-waste/log/210387-bad-ass-pellet-extruder-v10
                             https://hangprinter.org/doc/v4/
+                            https://torbjornludvigsen.com/blog/2020/#hangprinter_project_63
